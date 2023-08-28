@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(247, 250, 249);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+header {
+
+
+    text-align:center;
+    padding: 1rem;
+    color: yellow;
+    background-color: rgb(3, 3, 3);
+}
+.CONTACT {
+    color: rgb(248, 0, 0);
+    border: 1px;
+}
+.SKILLS
+.EDUCATION{
+    padding: 3rem;
+    margin-bottom: 2rem;
+    border: 1px rgb(10, 230, 46);
+}
+.EDUCATION{
+    color: rgb(92, 2, 84);
+}
+.SKILLS ul{ 
+    list-style-type: none;
+    padding-left: 0;
+}
+.SKILLS{
+    display: inline-block;
+    margin-right: 1rem;
+}
